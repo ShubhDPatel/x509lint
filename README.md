@@ -1,1 +1,1 @@
-## To run and build, just open the .sln file
+# This is a fork of kroeckx/x509lint
