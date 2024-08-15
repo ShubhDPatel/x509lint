@@ -19,4 +19,3 @@
 bool asn1_time_to_tm(ASN1_TIME *time, struct tm *tm);
 
 #endif
-

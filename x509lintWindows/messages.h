@@ -4,4 +4,3 @@
 char *get_messages();
 
 #endif
-
