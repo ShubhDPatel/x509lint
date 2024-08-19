@@ -140,7 +140,7 @@ static const char *error_strings[] =
     "E: Algorithm parameter missing\n", /* ERR_ALG_PARAMETER_MISSING */
     "E: Bit string with leading 0\n", /* ERR_BIT_STRING_LEADING_0 */
     "E: Algorithm parameter not NULL\n", /* ERR_ALG_PARAMETER_NOT_NULL */
-    "E: Unkonwn signature algorithm\n", /* ERR_UNKNOWN_SIGNATURE_ALGORITHM */
+    "E: Unknown signature algorithm\n", /* ERR_UNKNOWN_SIGNATURE_ALGORITHM */
     "E: Algorithm parameter present\n", /* ERR_ALG_PARAMETER_PRESENT */
     "E: Not using a named curve\n", /* ERR_NOT_NAMED_CURVE */
     "E: Key usage with unknown bit\n", /* ERR_KEY_USAGE_UNKNOWN_BIT */
